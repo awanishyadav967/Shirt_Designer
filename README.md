@@ -7,7 +7,8 @@ In this project I used:
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
+- Framer Motion - the most popular library used to bring your React website to life with animation
+- OpenAI API-Used Open AI API key to design the shirt using Artificial Intelligence
 
 ## Demo Link
 [Click here to view the demo](https://3dshirtdesigner.fun/)
