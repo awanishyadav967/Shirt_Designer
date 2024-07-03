@@ -1,14 +1,22 @@
 # Shirt_Designer
-# Build and Deploy an AI-Powered 3D Website Using React
-[![Tshirt1.png](https://i.postimg.cc/X7BDZ3Kf/Tshirt1.png)](https://postimg.cc/ZCZLgGMn)
-[![tshirt2.png](https://i.postimg.cc/YC3V7RfZ/tshirt2.png)](https://postimg.cc/tssDthcN)
 
-In this project I used:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animation
-- OpenAI API-Used Open AI API key to design the shirt using Artificial Intelligence
+## Build and Deploy an AI-Powered 3D Website Using React
+
+![Screenshot of the Website](shirt1.png)
+![Screenshot of the Website](shirt2.png)
+
+In this project, I used:
+- **ThreeJS**: A powerful 3D graphics library for rendering and animating the 3D model.
+- **React Three Fiber**: A popular library for creating 3D graphics with ThreeJS in React.
+- **TailwindCSS**: A popular utility-first CSS styling framework.
+- **Framer Motion**: The most popular library used to bring your React website to life with animation.
+- **OpenAI API**: Used OpenAI API key to design the shirt using Artificial Intelligence.
+
+## Features
+1. **Change Color of the Shirt**: Use color palettes to change the color of the shirt.
+2. **Upload Customized Logo**: Upload a custom logo and place it on the shirt.
+3. **AI-Powered Design**: Change color and design, including the logo, by giving instructions to the AI.
+4. **Download the Designed T-Shirt**: Download the final design of the t-shirt.
 
 ## Demo Link
-[Click here to view the demo](https://3dshirtdesigner.fun/)
+[Live Website Link](https://3dshirtdesigner.fun/)
